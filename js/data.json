@@ -1,0 +1,87 @@
+[
+  {
+    "id": 1,
+    "name": "Ürün ismi 1",
+    "price": {
+      "oldPrice": 101,
+      "newPrice": 100
+    },
+    "discount": 22,
+    "img": {
+      "singleImage": "img/img/products/product1/1.png",
+      "thumbs": [
+        "img/img/products/product1/1.png",
+        "img/img/products/product1/2.png",
+        "img/img/products/product1/3.png"
+      ]
+    }
+  },
+  {
+    "id": 2,
+    "name": "Ürün ismi 2",
+    "price": {
+      "oldPrice": 102,
+      "newPrice": 100
+    },
+    "discount": 33,
+    "img": {
+      "singleImage": "img/img/products/product2/1.png",
+      "thumbs": [
+        "img/img/products/product2/1.png",
+        "img/img/products/product2/2.png",
+        "img/img/products/product2/3.png"
+      ]
+    }
+  },
+  {
+    "id": 3,
+    "name": "Ürün ismi 3",
+    "price": {
+      "oldPrice": 103,
+      "newPrice": 100
+    },
+    "discount": 90,
+    "img": {
+      "singleImage": "img/img/products/product3/1.png",
+      "thumbs": [
+        "img/img/products/product3/1.png",
+        "img/img/products/product3/2.png",
+        "img/img/products/product3/3.png"
+      ]
+    }
+  },
+  {
+    "id": 4,
+    "name": "Ürün ismi 4",
+    "price": {
+      "oldPrice": 104,
+      "newPrice": 100
+    },
+    "discount": 40,
+    "img": {
+      "singleImage": "img/img/products/product4/1.png",
+      "thumbs": [
+        "img/img/products/product4/1.png",
+        "img/img/products/product4/2.png",
+        "img/img/products/product4/3.png"
+      ]
+    }
+  },
+  {
+    "id": 5,
+    "name": "Ürün ismi 5",
+    "price": {
+      "oldPrice": 105,
+      "newPrice": 100
+    },
+    "discount": 40,
+    "img": {
+      "singleImage": "img/img/products/product5/1.png",
+      "thumbs": [
+        "img/img/products/product5/1.png",
+        "img/img/products/product5/2.png",
+        "img/img/products/product5/3.png"
+      ]
+    }
+  }
+]
